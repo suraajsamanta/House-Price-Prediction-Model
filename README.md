@@ -1,6 +1,6 @@
 # House-Price-Prediction-Model
 
-
+![alt text](https://github.com/suraajsamanta/House-Price-Prediction-Model/blob/main/Website%20Screenshot.png)
 
 This data science project is based around a real estate price prediction website. 
 
